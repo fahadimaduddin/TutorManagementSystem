@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorManagementSystem", "TutorManagementSystem\TutorManagementSystem.csproj", "{9DFA20DB-EB78-46D4-BCEF-201D76BC8330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DFA20DB-EB78-46D4-BCEF-201D76BC8330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFA20DB-EB78-46D4-BCEF-201D76BC8330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFA20DB-EB78-46D4-BCEF-201D76BC8330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFA20DB-EB78-46D4-BCEF-201D76BC8330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {134B25C3-A674-4B32-BC9F-4F4F0C994DA3}
+	EndGlobalSection
+EndGlobal
