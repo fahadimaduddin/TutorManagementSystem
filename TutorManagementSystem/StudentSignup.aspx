@@ -31,7 +31,7 @@
         <br />
         <div class="row">
             <div class="col-md-12">
-                <h1 class="jumbotron bg-primary text-center text-white">Student Sign Up</h1>
+                <h1 class="jumbotron text-center text-white" style="background-color: #1e4356;">Student Sign Up</h1>
             </div>
         </div>
         <div class="row">
@@ -123,7 +123,7 @@
         <br />
         <div class="row">
             <div class="col-md-4 mx-auto">
-                <asp:Button ID="SignupButton" OnClick="SignupButton_Click" CssClass="form-control btn btn-primary" runat="server" Text="Sign Up" />
+                <asp:Button ID="SignupButton" OnClick="SignupButton_Click" CssClass="form-control btn text-white" style="background-color: #1e4356;" runat="server" Text="Sign Up" />
             </div>
         </div>
           <br />

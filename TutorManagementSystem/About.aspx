@@ -27,21 +27,20 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Experienced Software Engineer | SharePoint Specialist | Full-Stack .NET Developer</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Passionate Software Engineer with a proven track record of delivering efficient and innovative software solutions.
             </p>
             <ul>
-              <li><i class="bi bi-check2-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check2-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check2-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bi bi-check2-circle"></i> Experienced in SharePoint, .NET development, and frontend design.</li>
+              <li><i class="bi bi-check2-circle"></i> Thrive in dynamic environments where teamwork, adaptability, and problem-solving are key to success.</li>
+              <li><i class="bi bi-check2-circle"></i> Eager to contribute expertise to organizations focused on leveraging technology for impactful outcomes.</li>
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+              With a commitment to innovation and collaboration, I excel in creating user-friendly, scalable, and efficient solutions
+              that drive results and make a meaningful impact in diverse industries.
             </p>
+
           </div>
         </div>
 
@@ -85,7 +84,7 @@
 
         <div class="section-title">
           <h2>Our Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <p>Passionate about creating innovative solutions, I have a strong track record of delivering efficient software. I focus on understanding client needs, overcoming challenges, and providing impactful solutions. My work is driven by a commitment to quality, user experience, and problem-solving in dynamic environments.</p>
         </div>
 
         <div class="skills-content">
@@ -120,7 +119,7 @@
     </section><!-- End Our Skills Section -->
 
     <!-- ======= Tetstimonials Section ======= -->
-    <section class="testimonials" data-aos="fade-up">
+   <%-- <section class="testimonials" data-aos="fade-up">
       <div class="container">
 
         <div class="section-title">
@@ -189,7 +188,8 @@
         </div>
 
       </div>
-    </section><!-- End Ttstimonials Section -->
+    </section><!-- --%>E
+    <!--End Ttstimonials Section -->
 
 
 </asp:Content>

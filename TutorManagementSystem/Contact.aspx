@@ -115,7 +115,7 @@
               </div>--%>
                     <div class="text-center">
                         <%--                  <button type="submit" class="btn btn-block btn-info">Send Message</button>--%>
-                        <asp:Button ID="SubmitButton" class="btn btn-block btn-info" runat="server" Text="Submit" OnClick="SubmitButton_Click" />
+                        <asp:Button ID="SubmitButton" class="btn btn-block text-white" style="background-color: #1e4356;" runat="server" Text="Submit" OnClick="SubmitButton_Click" />
                     </div>
                     <br />
 <%--                     <asp:Label ID="MessageLabel"  ForeColor="Black" Visible="False" runat="server" Text="Your message has been sent. Thank you!" BorderColor="Green" BorderStyle="Solid" BorderWidth="1px" CssClass="form-control"></asp:Label>--%>

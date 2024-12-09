@@ -30,14 +30,14 @@
             <div class="row">
                 <div class="col-md-4 mx-auto" id="shadow">
                     <br />
-                    <div class="jumbotron text-center text-white bg-primary">
+                    <div class="jumbotron text-center text-white" style="background-color: #1e4356;">
                         <h2>Student Log In</h2>
                     </div>
                     <asp:TextBox ID="UsernameTextBox" class="form-control" placeholder="Username" runat="server"></asp:TextBox>
                     <asp:RequiredFieldValidator ControlToValidate="UsernameTextBox" ForeColor="Red" SetFocusOnError="true" Display="Dynamic" ID="UsernameRequiredFieldValidator" runat="server" ErrorMessage="Username is Required"></asp:RequiredFieldValidator><br />
                     <asp:TextBox ID="PasswordTextBox" TextMode="Password" class="form-control" placeholder="Password" runat="server"></asp:TextBox>
                     <asp:RequiredFieldValidator ControlToValidate="PasswordTextBox" ForeColor="Red" SetFocusOnError="true" Display="Dynamic" ID="PasswordRequiredFieldValidator" runat="server" ErrorMessage="Password is Required"></asp:RequiredFieldValidator><br />
-                    <asp:Button ID="LoginButton" onclick="LoginButton_Click" class="btn btn-block btn-primary" runat="server" Text="Log In" /><br />
+                    <asp:Button ID="LoginButton" onclick="LoginButton_Click" class="btn btn-block text-white" style="background-color: #1e4356;" runat="server" Text="Log In" /><br />
                 </div>
             </div>
         </div>

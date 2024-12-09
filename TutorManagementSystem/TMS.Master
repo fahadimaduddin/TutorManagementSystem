@@ -70,23 +70,6 @@
                                 <li><a href="StudentLogin.aspx"  style="background-color:#1e4356;" class="text-white">Student Log In</a></li>
                             </ul>
                         </li>
-
-                        <%--  <li>
-                                <a href="TutorSignup.aspx">
-                                    <span class="glyphicon glyphicon-user"></span>Tutor Sign Up</a>
-                            </li>
-                         <li>
-                                <a href="TutorLogin.aspx">
-                                    <span class="glyphicon glyphicon-user"></span>Tutor Log In</a>
-                            </li>
-                          <li>
-                                <a href="StudentSignup.aspx">
-                                    <span class="glyphicon glyphicon-user"></span>Sign Up</a>
-                            </li>
-                            <li>    
-                                <a href="StudentLogin.aspx">
-                                    <span class="glyphicon glyphicon-log-in"></span>Log In</a>
-                            </li>--%>
                     </ul>
                 </nav>
                 <!-- .nav-menu -->
@@ -107,8 +90,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <h4>Our Newsletter</h4>
-                            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-                        </div>
+                            <p>Innovative dev delivering efficient tech, thriving on teamwork and success.</p>
                         <div class="col-lg-6">
                             <%--    <form action="" method="post">
                                 <input type="email" name="email"><input type="submit" value="Subscribe">
@@ -147,26 +129,27 @@
                         <div class="col-lg-3 col-md-6 footer-contact">
                             <h4>Contact Us</h4>
                             <p>
-                                A108 Adam Street
+                                A108 Nazimabad Block A
                                 <br>
-                                New York, NY 535022<br>
-                                United States
+                                Karachi, KHI 74600<br>
+                                Pakistan
                                 <br>
                                 <br>
-                                <strong>Phone:</strong> +1 5589 55488 55<br>
-                                <strong>Email:</strong> info@example.com<br>
+                                <strong>Phone:</strong> +92 3498966703<br>
+                                <strong>Email:</strong> admin@fahadimaduddin.com<br>
                             </p>
 
                         </div>
 
                         <div class="col-lg-3 col-md-6 footer-info">
-                            <h3>About Moderna</h3>
-                            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+                            <h3>About Fahad's</h3>
+                                <p>Passionate Software Engineer with a proven track record of delivering efficient and innovative software solutions. Experienced in SharePoint, .NET development, and frontend design. Thriving in dynamic environments where teamwork, adaptability, and problem-solving are key to success. Eager to contribute expertise to organizations focused on leveraging technology for impactful outcomes.</p>
                             <div class="social-links mt-3">
-                                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                                <a href="https://twitter.com/fahadimaduddin" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
+                                <a href="https://facebook.com/fahadimaduddinn" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+                                <a href="https://instagram.com/fahadimaduddin" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+                                <a href="https://linkedin.com/in/fahadimaduddin" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
+
                             </div>
                         </div>
 
@@ -183,7 +166,7 @@
                     <!-- You can delete the links only if you purchased the pro version. -->
                     <!-- Licensing information: https://bootstrapmade.com/license/ -->
                     <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/ -->
-                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                    Designed by <a href="https://fahadimaduddin.com/">Fahad Imaduddin</a>
                 </div>
             </div>
         </footer>
