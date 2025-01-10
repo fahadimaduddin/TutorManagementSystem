@@ -89,114 +89,110 @@
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Why Us Section ======= -->
-    <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
-      <div class="container">
+   <!-- ======= Why Us Section ======= -->
+<section class="why-us section-bg" data-aos="fade-up" data-aos-delay="200">
+  <div class="container">
 
-        <div class="row">
-          <div class="col-lg-6 video-box">
-            <img src="assets/img/why-us.jpg" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
-          </div>
+    <div class="row">
+      <div class="col-lg-6 video-box">
+        <img src="assets/img/why-us.jpg" class="img-fluid" alt="Why Us Video Thumbnail">
+        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+      </div>
 
-          <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
+      <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
 
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="#">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
+        <div class="icon-box">
+          <div class="icon"><i class="bx bx-fingerprint"></i></div>
+          <h4 class="title"><a href="#">Innovative Solutions</a></h4>
+          <p class="description">We deliver cutting-edge solutions tailored to meet your unique needs. Our approach focuses on innovation, efficiency, and reliability to help you achieve your goals.</p>
+        </div>
 
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="#">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-
-          </div>
+        <div class="icon-box">
+          <div class="icon"><i class="bx bx-gift"></i></div>
+          <h4 class="title"><a href="#">Exceptional Value</a></h4>
+          <p class="description">Our commitment to excellence ensures that you receive unmatched value and quality. Experience transformative results that enhance your business success.</p>
         </div>
 
       </div>
-    </section><!-- End Why Us Section -->
+    </div>
+
+  </div>
+</section><!-- End Why Us Section -->
+
 
     <!-- ======= Features Section ======= -->
-    <section class="features">
-      <div class="container">
+   <section class="features">
+  <div class="container">
 
-        <div class="section-title">
-          <h2>Features</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
+    <div class="section-title">
+      <h2>Features</h2>
+      <p>Our platform offers a wide range of innovative features designed to enhance productivity, streamline workflows, and deliver exceptional results. Explore the cutting-edge tools and functionalities that set us apart.</p>
+    </div>
 
-        <div class="row" data-aos="fade-up">
-          <div class="col-md-5">
-            <img src="assets/img/features-1.svg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 pt-4">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="icofont-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/features-2.svg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 pt-5 order-2 order-md-1">
-            <h3>Corporis temporibus maiores provident</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div>
-
-        <div class="row" data-aos="fade-up">
-          <div class="col-md-5">
-            <img src="assets/img/features-3.svg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 pt-5">
-            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
-            <ul>
-              <li><i class="icofont-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/features-4.svg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 pt-5 order-2 order-md-1">
-            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div>
-
+    <div class="row" data-aos="fade-up">
+      <div class="col-md-5">
+        <img src="assets/img/features-1.svg" class="img-fluid" alt="Feature 1 Image">
       </div>
-    </section><!-- End Features Section -->
+      <div class="col-md-7 pt-4">
+        <h3>Advanced Automation for Seamless Operations</h3>
+        <p class="font-italic">
+          Automate repetitive tasks with ease to save time and focus on strategic initiatives. Our tools integrate effortlessly into your existing systems.
+        </p>
+        <ul>
+          <li><i class="icofont-check"></i> Boost efficiency through intelligent task automation.</li>
+          <li><i class="icofont-check"></i> Reduce human error and enhance operational accuracy.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row" data-aos="fade-up">
+      <div class="col-md-5 order-1 order-md-2">
+        <img src="assets/img/features-2.svg" class="img-fluid" alt="Feature 2 Image">
+      </div>
+      <div class="col-md-7 pt-5 order-2 order-md-1">
+        <h3>Data-Driven Insights for Smarter Decisions</h3>
+        <p class="font-italic">
+          Leverage powerful analytics to gain valuable insights into your business operations and make data-backed decisions.
+        </p>
+        <p>
+          Access real-time reports, identify trends, and unlock new opportunities. Our platform empowers you to stay ahead of the competition with actionable intelligence.
+        </p>
+      </div>
+    </div>
+
+    <div class="row" data-aos="fade-up">
+      <div class="col-md-5">
+        <img src="assets/img/features-3.svg" class="img-fluid" alt="Feature 3 Image">
+      </div>
+      <div class="col-md-7 pt-5">
+        <h3>Customizable Solutions Tailored to Your Needs</h3>
+        <p>
+          Personalize the platform to suit your business requirements. Our flexible tools adapt to your workflows and ensure a seamless experience.
+        </p>
+        <ul>
+          <li><i class="icofont-check"></i> Build custom workflows to match your goals.</li>
+          <li><i class="icofont-check"></i> Scale effortlessly as your business grows.</li>
+          <li><i class="icofont-check"></i> Enjoy an intuitive interface designed for ease of use.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row" data-aos="fade-up">
+      <div class="col-md-5 order-1 order-md-2">
+        <img src="assets/img/features-4.svg" class="img-fluid" alt="Feature 4 Image">
+      </div>
+      <div class="col-md-7 pt-5 order-2 order-md-1">
+        <h3>Robust Security and Reliable Performance</h3>
+        <p class="font-italic">
+          Protect your data with industry-leading security protocols and experience unparalleled platform reliability.
+        </p>
+        <p>
+          Our infrastructure ensures minimal downtime, keeping your operations running smoothly. Trust us to safeguard your sensitive information.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section><!-- End Features Section -->
 
 </asp:Content>
