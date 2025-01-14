@@ -9,7 +9,7 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animated fadeInDown">Welcome to <span>Tutor Management System</span></h2>
+          <h2 class="animated fadeInDown">Welcome to <span>TutorSphere</span></h2>
           <p class="animated fadeInUp">Running and managing a tutoring business is fulfilling and exciting! However, an ever-expanding admin workload can be a bore. Tutor management software is vital to making your business more effective and freeing up your time to focus on what you love. TutorCruncher’s tutor management system is specifically designed to tackle the problems of administration overload and online tutoring.</p>
           <a href="#" class="btn-get-started animated fadeInUp">Read More</a>
         </div>
@@ -55,16 +55,16 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box icon-box-pink">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="#">Dot Net</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="#">.NET Development</a></h4>
+              <p class="description">Experienced in creating scalable and efficient applications using .NET technologies to solve complex problems.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="#">Open Source</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 class="title"><a href="#">Open Source Contributions</a></h4>
+              <p class="description">Contributed to various open-source projects, focusing on collaboration, innovation, and community-driven solutions.</p>
             </div>
           </div>
 
@@ -72,7 +72,7 @@
             <div class="icon-box icon-box-green">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4 class="title"><a href="#">C#, Java, Python</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <p class="description">Skilled in multiple programming languages including C#, Java, and Python, to deliver high-quality, performance-driven applications.</p>
             </div>
           </div>
 
@@ -80,7 +80,7 @@
             <div class="icon-box icon-box-blue">
               <div class="icon"><i class="bx bx-world"></i></div>
               <h4 class="title"><a href="#">SQL Server, MySQL</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <p class="description">Proficient in working with relational databases like SQL Server and MySQL, ensuring data integrity and high performance.</p>
             </div>
           </div>
 
